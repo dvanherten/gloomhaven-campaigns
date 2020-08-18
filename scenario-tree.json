@@ -41,6 +41,7 @@
       "status": "complete",
       "treasure": { "01": { "looted": "true" } }
     },
+    { "id": "17", "status": "incomplete" },
     {
       "id": "18",
       "status": "complete",
